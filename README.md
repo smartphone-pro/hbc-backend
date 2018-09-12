@@ -1,4 +1,4 @@
-Example App Backend
+HBC iOS App Backend
 ====
 
 This is a really simple [Sinatra](http://www.sinatrarb.com/) webapp that you can use to test Stripe's [example iOS apps](https://github.com/stripe/stripe-ios) and
